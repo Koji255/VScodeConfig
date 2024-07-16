@@ -48,8 +48,10 @@ Info {
 Name: sqlite3
 How to install: sudo apt-get install sqlite3
 Settings: 
-1. ".mode column",
+Use command in terminal: "nano ~/.sqliterc"
+1. ".mode table",
 2. ".headers on",
 3. ".width 15 15 15 15"
 4. ".timer on"
+"Ctrl + S"
 }]
