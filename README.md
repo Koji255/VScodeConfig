@@ -25,3 +25,16 @@ Publisher: Keisuke Kato
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings
 }]
 
+==================================
+Tools:
+
+sqlite3[
+Info { 
+Name: sqlite3
+How to install: sudo apt-get install sqlite3
+Settings: 
+1. ".mode column",
+2. ".headers on",
+3. ".width 15 15 15 15"
+4. ".timer on"
+}]
