@@ -26,6 +26,21 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=k--kato
 }]
 
 ==================================
+
+Github Dark Default settings[
+{
+Use "Github Dark Default" theme and add this code in settings.json:
+'
+  "workbench.colorCustomizations": {
+    "[Github Dark Default]": {
+      "editor.background": "#0c0c0c",
+    }
+  }
+'
+}]
+
+==================================
+==================================
 Tools:
 
 sqlite3[
