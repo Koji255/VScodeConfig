@@ -55,3 +55,10 @@ Use command in terminal: "nano ~/.sqliterc"
 4. ".timer on"
 "Ctrl + S"
 }]
+
+harlequin (Terminal IDE for duckdb & sqlite)[
+Info {
+Name: harlequin
+How to install: pipx install harlequin
+Visit: https://harlequin.sh/docs/getting-started
+}]
