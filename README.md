@@ -29,13 +29,9 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=k--kato
 
 Github Dark Default settings[
 {
-Use "Github Dark Default" theme and add this code in settings.json:
+Open, use "Github Dark Default" theme and add this code in json user settings:
 '
-  "workbench.colorCustomizations": {
-    "[Github Dark Default]": {
-      "editor.background": "#0c0c0c",
-    }
-  }
+"workbench.colorCustomizations":{"editor.background": "#0c0c0c"},
 '
 }]
 
