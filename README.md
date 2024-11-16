@@ -35,6 +35,27 @@ Open, use "Github Dark Default" theme and add this code in json user settings:
 '
 }]
 
+Gold Standart Dark settings[
+{
+    "workbench.colorTheme": "Gold Standard Dark",
+    "workbench.colorCustomizations":{
+        "editor.background": "#0f0f0f60",
+        "editorGutter.background": "#0f0f0f60",
+        "sideBar.background": "#111111",
+        "sideBar.border": "#4d4d4d",
+        "sideBarSectionHeader.background": "#111111",
+        
+        "terminal.background": "#111111",
+  },
+    "editor.fontSize": 27,
+    "editor.fontFamily": "Fira Code",
+    "terminal.integrated.fontSize": 19,
+    "files.autoSave": "afterDelay",
+    "python.defaultInterpreterPath": "/home/koji/Desktop/Code/flask/project3/venv",
+    "workbench.iconTheme": "vscode-icons",
+}
+]
+
 ==================================
 ==================================
 Tools:
